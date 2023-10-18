@@ -12,7 +12,7 @@
     "activity":[
         {"listen": "/help"}
     ],
-    "bot_access_user": ['945234209264525312'],
+    "bot_access_user": [945234209264525312],
     "embed_color":"0xb3b3b3",
     "default_max_queue": 1000,
     "lyrics_platform": "A_ZLyrics",
